@@ -26,7 +26,7 @@ The Contact Manager is a Java-based application that allows users to store, mana
 ``` bash
 java ContactManager
     
-    ```
+```
 
 ## Usage
 
