@@ -13,16 +13,19 @@ The Contact Manager is a Java-based application that allows users to store, mana
 ## Installation
 
 1. **Clone the repository:**
-   ``` bash
+``` bash
    git clone https://github.com/yourusername/contact-manager.git
    cd contact-manager
-   ```
+```
 2. Compile the Java files:
-    ``` javac ContactManager.java
-    ```
+```bash
+ javac ContactManager.java
+```
 
 3. Run the application:
-    ``` java ContactManager
+``` bash
+java ContactManager
+    
     ```
 
 ## Usage
